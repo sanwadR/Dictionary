@@ -1,0 +1,58 @@
+body {
+  display: flex;
+  background-color: lavender;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.Dictionary {
+  background-color: white;
+  /* background-color: bisque; */
+  width: 50vh;
+  /* margin-left: 450px;
+  margin-top: 30vh;
+  min-height: 35vh; */
+  padding: 20px;
+  border-radius: 0.8rem;
+  /* display: flex; */
+  text-align: center;
+  justify-content: center;
+}
+h1 {
+  margin-top: -6px;
+}
+.searchbtn {
+  border: none;
+  background-color: aquamarine;
+  border-radius: 0.35rem;
+  padding: 8px;
+}
+
+.Input {
+  height: 26px;
+  border-radius: 4px;
+  border: none;
+  box-shadow: -4px 4px 4px black;
+}
+
+.WordResult {
+  text-align: justify;
+}
+.Word {
+  text-decoration: underline red;
+}
+.meaning {
+  border-left: solid plum;
+}
+
+.phonetic {
+  border-left: solid darkcyan;
+}
+
+.Volumebtn {
+  border-radius: 0.35rem;
+  border: none;
+  padding: 8px 8px 8px 8px;
+  background-color: palevioletred;
+}
