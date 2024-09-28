@@ -23,3 +23,11 @@ This is a simple **Dictionary Application** that allows users to input a word an
 1. Clone the repository:
    ```bash
    git clone https://github.com/sanwadR/Dictionary.git
+2. Navigate to the project folder
+   ```bash
+   cd Dictionary
+3. Open index.html in your browser to run the app.
+4. Enter a word and press search to get its definition and audio.
+
+### Contribution
+Feel free to submit a pull request if you want to contribute to the project. Ensure that your code is well-structured and follows best practices.
